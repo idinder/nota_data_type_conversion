@@ -1,4 +1,8 @@
 // data type conversion atau penukaran data type
+// ada dua cara data type conversion iaitu :
+// 1. implicit (secara automatik)
+// 2. explicit (secara manual)
+
 // data type boleh berubah mengikut hierarki data dari bawah ke atas
 // contohnya :         (data types secara implicit(automatic) akan ditukar
 //                      menjadi data type yang paling tinggi yg dinyatakan)
@@ -10,10 +14,6 @@
 // 5.int
 // 6.short int
 // 7.char
-
-// ada dua cara data type conversion iaitu :
-// 1. implicit (secara automatik)
-// 2. explicit (secara manual)
 
 // contoh dibawah adalah penukaran data type dari int kepada float (implicit)
 
